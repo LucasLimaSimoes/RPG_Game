@@ -1,12 +1,12 @@
-#🗡️ Command Line RPG
+# 🗡️ Command Line RPG
 
-[![Python](https://img.shields.io/badge/Python-3.x-blue.svg)]()
+[![Python](https://img.shields.io/badge/Python-3.8-blue.svg)]()
 
 A simple command-line RPG game built with Python, featuring turn-based combat, leveling, shops, saving/loading, and a modular code structure designed to be easy to expand.
 
 This project was created as a learning exercise and portfolio piece, focusing on clean code organization and basic game systems.
 
-#🎮 Features
+## 🎮 Features
 
 Main menu system
 
@@ -40,7 +40,7 @@ Save & Load game (JSON-based)
 
 Modular design (separate files for each system)
 
-#🗂️ Project Structure
+## 🗂️ Project Structure
 
 rpg_game/
 ├── main.py
@@ -51,7 +51,7 @@ rpg_game/
 ├── utils.py
 └── save.json
 
-#▶️ How to Run
+## ▶️ How to Run
 Requirements
 
 Python 3.8 or higher
@@ -70,7 +70,7 @@ Run the game:
 
 python main.py
 
-#🕹️ Gameplay Overview
+## 🕹️ Gameplay Overview
 
 Start the game by creating a hero
 
@@ -86,7 +86,7 @@ Save or load your progress
 
 Gain experience, level up, and become stronger over time
 
-#💡 Design Goals
+## 💡 Design Goals
 
 Keep the code simple and readable
 
@@ -96,7 +96,7 @@ Make the project easy to extend
 
 Serve as a portfolio-ready Python project
 
-#🚀 Possible Future Improvements
+## 🚀 Possible Future Improvements
 
 Inventory system
 
@@ -116,10 +116,10 @@ Multiple save slots
 
 ASCII art and UI improvements
 
-#📜 License
+## 📜 License
 
 This project is open-source and free to use for learning and personal projects.
 
-#🙌 Acknowledgments
+## 🙌 Acknowledgments
 
 Inspired by classic RPG mechanics and built as a practice project to improve Python programming skills.
